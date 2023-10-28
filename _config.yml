@@ -1,0 +1,19 @@
+title: IVR Tester
+description: Open-source tool for automating the testing of your IVR call flows
+theme: just-the-docs
+
+url: https://ivr-tester.makingchatbots.com
+
+footer_content: "Copyright &copy; 2023 Lucas Woodward"
+
+author: Lucas Woodward
+social:
+  name: Lucas Woodward
+  links:
+    - https://www.linkedin.com/in/lucas-woodward-the-dev
+
+nav_external_links:
+  - title: GitHub Project
+    url: https://github.com/SketchingDev/ivr-tester
+    hide_icon: false
+    opens_in_new_tab: true
