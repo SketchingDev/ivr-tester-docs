@@ -1,6 +1,7 @@
 title: IVR Tester
 description: Open-source tool for automating the testing of your IVR call flows
 theme: just-the-docs
+favicon_ico: "/assets/images/favicon.ico"
 
 url: https://ivr-tester.makingchatbots.com
 
