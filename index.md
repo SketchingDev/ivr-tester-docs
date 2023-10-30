@@ -4,9 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-<p class="text-center">
-  Automate the testing of your IVR call flows!
-</p>
+# IVR Tester: Automate the testing of IVRs
 
 IVR Tester automates the testing of IVR flows by calling them, interpreting prompts and replying with DTMF tones based
 on fluent test definitions.
